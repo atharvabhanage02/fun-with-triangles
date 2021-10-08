@@ -1,6 +1,6 @@
 const inputs = document.querySelectorAll(".angles")
 const checkBtn = document.querySelector(".check-btn")
-const output = document.querySelector("#output")
+const output = document.querySelector(".output")
 
 function calculateSumofAngles(angle1,angle2,angle3){
     const sum = angle1 + angle2 + angle3;
